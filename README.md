@@ -29,7 +29,7 @@
 
 ## 
 
-- 🔭 No momento estou trabalhando com o desenvolvimento de uma API Rest de Notas com Nodejs, SQLite e Insomnia.
+- 🔭 No momento estou trabalhando com o desenvolvimento de uma API Rest de Notas com Nodejs, SQLite, Insomnia e Beekeper.
 - 🌱 Atualmente estou aprendendo Java e Spring boot e Python e SQL.
 - 👯 Procuro colaborar com empresas voltadas ao mercado de tecnologia, como por exemplo startups (edtechs, fintechs...)
 - 🤔 Procuro ajuda nas mais diversas fontes (cursos, youtube, instagram, fóruns, blogs, sites).
