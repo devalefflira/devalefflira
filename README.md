@@ -27,17 +27,13 @@
   <a href="https://www.linkedin.com/in/aleff-lira-1157311a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<!--
-**devalefflira/devalefflira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 No momento estou trabalhando com o desenvolvimento de uma API Rest de Notas com Nodejs, SQLite e Insomnia.
+- 🌱 Atualmente estou aprendendo Java e Spring boot e Python e SQL.
+- 👯 Procuro colaborar com empresas voltadas ao mercado de tecnologia, como por exemplo startups (edtechs, fintechs...)
+- 🤔 Procuro ajuda nas mais diversas fontes (cursos, youtube, instagram, fóruns, blogs, sites).
+- 💬 Pergunte-me sobre tudo. O que eu não souber, dê-me um prazo, eu estudo e lhe dou a melhor resposta possível. O importante é compartilhar conhecimento e ajudar os outros. 
+- 📫 Como chegar até mim? Manda um oi no email (dev.alefflira@gmail.com), no WhatsApp +55(98)98292-7791, ou no direct do Instagram.
+- 😄 Pronomes: Ele/Dele
+- ⚡ O quê eu gosto de fazer: Estudar.
