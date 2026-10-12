@@ -29,11 +29,8 @@
 
 ## 
 
-- 🔭 No momento estou trabalhando com o desenvolvimento de uma API Rest de Notas com Nodejs, SQLite, Insomnia e Beekeper.
-- 🌱 Atualmente estou aprendendo Java e Spring boot e Python e SQL.
-- 👯 Procuro colaborar com empresas voltadas ao mercado de tecnologia, como por exemplo startups (edtechs, fintechs...)
-- 🤔 Procuro ajuda nas mais diversas fontes (cursos, youtube, instagram, fóruns, blogs, sites).
-- 💬 Pergunte-me sobre tudo. O que eu não souber, dê-me um prazo, eu estudo e lhe dou a melhor resposta possível. O importante é compartilhar conhecimento e ajudar os outros. 
-- 📫 Como chegar até mim? Manda um oi no email (dev.alefflira@gmail.com), no WhatsApp +55(98)98292-7791, ou no direct do Instagram.
-- 😄 Pronomes: Ele/Dele
-- ⚡ O quê eu gosto de fazer: Estudar.
+- 🔭 **No momento estou desenvolvendo:** Sistemas e ferramentas fiscais e financeiras de alta precisão (como o **Radar Tributário**, **Hazon** e **CP-Pro**).
+- 🛠️ **Minhas principais linguagens e ferramentas:** TypeScript, JavaScript, Python, SQL, Next.js, Node.js, Tailwind CSS e Supabase / PostgreSQL.
+- 👯 **Procuro colaborar em:** Projetos voltados a tecnologia fiscal (TaxTech), automações contábeis, fintechs e soluções corporativas.
+- 💬 **Pergunte-me sobre:** Automações fiscais, conciliação de dados, desenvolvimento full-stack com Next.js/Supabase e regras de negócios contábeis.
+- 📫 **Como me encontrar:** dev.alefflira@gmail.com | LinkedIn: /in/alefflira
